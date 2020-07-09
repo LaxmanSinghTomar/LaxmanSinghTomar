@@ -11,7 +11,7 @@ Talk to me about:
 - Extensive Feature Engineering 
 - Training and Tesing Machine Learning & Deep Learning Models using **Scikit-Learn**, **XGBoost**, **Keras**, **Tensorflow** and **Pytorch**.
 - Expressive and Insights driven Data Visualizations using **Matplotlib**, **Seaborn** and **Dexplot**.
-- Rapid & Scalable Developement using **AWS Sagemaker**.
+- Rapid & Scalable Development using **AWS Sagemaker**.
 
 ### 🔭 I’m currently working on
 I am co-creating the **Voicenet**, an Open Source library which makes it easy to develop, manage and handle voice-based tasks such as Speech to Text, Gender, Age and Emotion Detection, etc. using speech samples.
