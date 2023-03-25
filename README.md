@@ -2,19 +2,23 @@
 Machine Learning Engineer | Deep Learning | Natural Language Processing | Stats & Probability
 
 ### 🧐 About 
-Apart from having the superpower of sitting on a desk and coding out a potential solution for more than 24 hrs to deliver something that makes my team happy and the world a better place, I am working on democratizing Artificial Intelligence and shape the next generation of products in industry verticals such as healthcare, finance, social media and, law.
+Hey, glad you landed on this part of the Internet. I'm a Full Stack NLP Engineer. Apart from having the superpower of sitting at a desk and coding out a potential solution for more than 24 hrs to deliver something that makes my team happy and the world a better place, I am working on building scalable AI products for companies like P&G, SAP, and Google in domains like Search, Information Retrieval and Recommender Systems.
+
+When I'm not in front of the screen, I can be found trying an open-sourced tool, reading/writing research papers, technical books, and write-ups. Let's connect and see how we can work together to change the world, one line of code at a time.
+
 
 ### 👨‍🔧 Technologies 
 Talk to me about:
-- Data Acquisition using Public Datasets, Scraping, Product Intervention and Data Augmentation.
-- Data Analysis using **Pandas** and **Dask**.
-- Extensive Feature Engineering 
-- Training and Testing Machine Learning & Deep Learning Models using **Scikit-Learn**, **XGBoost**, **Keras**, **Tensorflow** and **Pytorch**.
-- Expressive and Insights driven Data Visualizations using **Matplotlib**, **Seaborn** and **Dexplot**.
-- Rapid & Scalable Development using **AWS Sagemaker**.
+- Everything about Search, Ranking, and Recommender Systems.
+- Integrating LLMs into an existing stack or developing solutions around them.
+- Training and Fine-Tuning Language Models via **Huggingface Transformers**.
+- Evaluating ML Systems via Weak Supervision, Active Learning, Adversarial, and Behavioral Testing
+- Machine Learning Workflows via **Prefect** & **Metaflow**.
+- Rapid & Scalable Deployment using **AWS Sagemaker** and **Serverless** Options.
+- Best Software Development Practices for ML including ML Systems Design and Code Reusability.
 
 ### 🔭 I’m currently working on
-I am co-creating the **Voicenet**, an Open Source library which makes it easy to develop, manage and handle voice-based tasks such as Speech to Text, Gender, Age and Emotion Detection, etc. using speech samples.
+I am currently building LLM-powered applications via models like **GPT-3.5** and **ChatGPT** that can scale in domains like **Conversational Search Engines**, Information Extraction, and Retrieval.
 
 ### 📫 How to reach me
 - 🌐 LinkedIn: [Laxman Singh Tomar](https://www.linkedin.com/in/laxman-singh)
