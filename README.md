@@ -1,5 +1,5 @@
-# Laxman Singh Tomar 👨‍💻
-Machine Learning Engineer | Deep Learning | Natural Language Processing | Stats & Probability
+<h1 align="center">Hi 👋, I'm Laxman Singh Tomar</h1>
+<h3 align="center">Senior NLP Engineer</h3>
 
 ### 🧐 About 
 Hey, glad you landed on this part of the Internet. I'm a Full Stack NLP Engineer. Apart from having the superpower of sitting at a desk and coding out a potential solution for more than 24 hrs to deliver something that makes my team happy and the world a better place, I am working on building scalable AI products for companies like P&G, SAP, and Google in domains like Search, Information Retrieval and Recommender Systems.
