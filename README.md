@@ -18,7 +18,7 @@ Talk to me about:
 - Best Software Development Practices for ML including ML Systems Design and Code Reusability.
 
 ### 🔭 I’m currently working on
-I am currently building LLM-powered applications via models like **GPT-3.5** and **ChatGPT** that can scale in domains like **Conversational Search Engines**, Information Extraction, and Retrieval.
+I am currently building LLM-powered applications via models like **GPT-3.5**, **ChatGPT**, **Claude-2**, and **LLaMa-2** that can scale in domains like **Conversational Search Engines**, Information Extraction, Generation and Retrieval.
 
 ### 📫 How to reach me
 - 🌐 LinkedIn: [Laxman Singh Tomar](https://www.linkedin.com/in/laxman-singh)
