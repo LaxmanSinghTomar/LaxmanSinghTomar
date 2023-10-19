@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laxman Singh Tomar</h1>
-<h3 align="center">Senior NLP Engineer</h3>
+<h3 align="center">Senior ML Engineer</h3>
 
 ### 🧐 About 
-Hey, glad you landed on this part of the Internet. I'm a Full Stack NLP Engineer. Apart from having the superpower of sitting at a desk and coding out a potential solution for more than 24 hrs to deliver something that makes my team happy and the world a better place, I am working on building scalable AI products for companies like P&G, SAP, and Google in domains like Search, Information Retrieval and Recommender Systems.
+Hey, glad you landed on this part of the Internet. I'm a Full Stack ML Engineer. Apart from having the superpower of sitting at a desk and coding out a potential solution for more than 24 hrs to deliver something that makes my team happy and the world a better place, I have worked on building scalable AI products for companies like P&G, SAP, and Google in domains like Search, Information Retrieval and Recommender Systems.
 
 When I'm not in front of the screen, I can be found trying an open-sourced tool, reading/writing research papers, technical books, and write-ups. Let's connect and see how we can work together to change the world, one line of code at a time.
 
@@ -18,7 +18,7 @@ Talk to me about:
 - Best Software Development Practices for ML including ML Systems Design and Code Reusability.
 
 ### 🔭 I’m currently working on
-I am currently building LLM-powered applications via models like **GPT-3.5**, **ChatGPT**, **Claude-2**, and **LLaMa-2** that can scale in domains like **Conversational Search Engines**, Information Extraction, Generation and Retrieval.
+I am currently building **Jiffy Copilot** and other LLM-powered applications via models like **GPT-3.5**, **ChatGPT**, **Claude-2**, and **LLaMa-2** that can scale in domains like **Conversational Search Engines**, **Recommender Systems**, Information Extraction, Generation and Retrieval.
 
 ### 📫 How to reach me
 - 🌐 LinkedIn: [Laxman Singh Tomar](https://www.linkedin.com/in/laxman-singh)
